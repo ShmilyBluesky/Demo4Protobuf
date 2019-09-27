@@ -1,0 +1,11 @@
+版本下载路径
+https://github.com/protocolbuffers/protobuf/releases
+针对c++版本下载文件名: protobuf-cpp-x.x.x
+
+
+
+
+多平台编译步骤参考文档
+https://github.com/protocolbuffers/protobuf/blob/master/src/README.md
+mingw编译环境: mingw + msys
+linux编译环境: 自带编译环境
